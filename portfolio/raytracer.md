@@ -12,14 +12,14 @@ alt: Raytracer
 ---
 ::
 
-# Tuxify
+# Raytracer
 - [Introduction](#introduction)
 - [Architecture](#architecture)
 - [Renders](#renders)
 - [References](#references)
 
 ## Introduction
-This project aims to develop a rendering engine using ray tracing to generate realistic images by simulating the behavior of light rays in a 3D scene.
+This project aims to develop a rendering engine using ray tracing in a 3D scene.
 
 We will provide an overview of the software architecture, features, and techniques used in the project.
 
