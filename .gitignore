@@ -1,0 +1,10 @@
+.vscode
+.idea
+*.o
+*.so
+*.dylib
+*.out
+raytracer
+build
+cmake-build-debug
+.DS_Store
